@@ -1,0 +1,19 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      tools:context="com.robusta.passapp.activity.HomeActivity">
+    <item
+        android:id="@+id/notifications_item"
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/ic_search_black_24dp"
+        />
+    <item
+        android:id="@+id/notifications_item2"
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/ic_shopping"
+        />
+
+
+</menu>

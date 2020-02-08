@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bit68 Task</string>
+    <string name="fresh_market">FM</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_slide">The biggest place for more goods with highest in market quality and lowest price</string>
+    <string name="second_slide">All variety of fruits, vegetables and  lots of other perfect grocery stuff</string>
+    <string name="third_slide">Try out our best, biggest and fastest delivery service with the simplest way</string>
+</resources>
